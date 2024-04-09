@@ -1,4 +1,4 @@
-package Array;
+package SlidingAndTwoPointers;
 
 public class MaxConsecOnes {
     public static void main(String[] args) {

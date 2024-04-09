@@ -1,4 +1,4 @@
-package Array;
+package SlidingAndTwoPointers;
 
 import java.util.HashMap;
 import java.util.HashSet;

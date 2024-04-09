@@ -1,4 +1,4 @@
-package Array;
+package SlidingAndTwoPointers;
 
 public class MaxCardPoints {
     public static void main(String[] args) {
